@@ -1,0 +1,7 @@
+data
+outputs
+figures
+*.csv
+*.p
+.ipynb_checkpoints
+
