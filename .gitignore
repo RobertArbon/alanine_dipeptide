@@ -1,0 +1,8 @@
+data
+outputs
+figures
+*.csv
+*.p
+.ipynb_checkpoints
+*.DS_Store
+
